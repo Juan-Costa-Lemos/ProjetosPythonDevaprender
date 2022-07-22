@@ -2,7 +2,7 @@ from turtle import Turtle
 
 t = Turtle()
 
-#velocidade
+
 t.speed(2)
 print(' ********************** Bem-vindo ao Turtle **********************')
 while True:
@@ -23,7 +23,7 @@ while True:
         if continuar == 's':
             continue
         elif continuar == 'n':
-            print('Obrigado por jogar, até a proxíma!!')
+            print('Obrigado por jogar, até a próxima!!')
             break
     elif andar == 't':
         tras = int(input('Deseja andar quantos pixel para trás?\n'))
@@ -41,7 +41,7 @@ while True:
         if continuar == 's':
             continue
         elif continuar == 'n':
-            print('Obrigado por jogar, até a proxíma!!')
+            print('Obrigado por jogar, até a próxima!!')
             break
     
 
