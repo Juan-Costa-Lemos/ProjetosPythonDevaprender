@@ -40,4 +40,4 @@ Informações sobre canções
 
 ### 7. Qual deve ser a estrutura de cada canção
 
- - lista de dicionários, que contem cancao e estilo
+ - lista de dicionários, que contem Musica e cantor
